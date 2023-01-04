@@ -1,4 +1,4 @@
-useragents = ['Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; MASP; rv:11.0) like Gecko',
+useragents = [  'Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; MASP; rv:11.0) like Gecko',
                 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36 OPR/29.0.1795.54600',
                 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.130 Safari/537.36',
                 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.132 Safari/537.36',
@@ -97,4 +97,5 @@ useragents = ['Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; MASP; rv:11
                 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/533.9 (KHTML, like Gecko) Chrome/6.0.401.1 Safari/533.9',
                 'Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2.17) Gecko/20110422 Ubuntu/10.04 (lucid) Firefox/3.6.17',
                 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.4) Gecko/20091016 Firefox/3.5.4',
-                'Mozilla/5.0 (Windows NT 6.2; WOW64; rv:13.0) Gecko/20100101 Firefox/13.0']
+                'Mozilla/5.0 (Windows NT 6.2; WOW64; rv:13.0) Gecko/20100101 Firefox/13.0'
+             ]
